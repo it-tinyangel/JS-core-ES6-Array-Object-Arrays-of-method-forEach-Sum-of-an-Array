@@ -7,4 +7,8 @@
 
 **Task description:**
 
-The given array arr with numbers. Find the sum of these numbers using the forEach method. Output the result to the console.
+- The given array arr with numbers.
+
+- Find the sum of these numbers using the forEach method.
+
+- Output the result to the console.
