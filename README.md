@@ -9,6 +9,6 @@
 
 - The given array arr with numbers.
 
-- Find the sum of these numbers using the forEach method.
+- Find the sum of these numbers using the forEach() Array's Method.
 
 - Output the result to the console.
