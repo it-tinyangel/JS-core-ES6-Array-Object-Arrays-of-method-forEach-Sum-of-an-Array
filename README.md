@@ -3,7 +3,7 @@
 ### ECMAScript 6 (ES6+). The JavaScript Array Object. The Arrays of methods. The forEach() Array's Method. Destructuring assignment
 ***
 
-### The Sum of the Array
+### The Sum of the Array elements
 
 **Task description:**
 
